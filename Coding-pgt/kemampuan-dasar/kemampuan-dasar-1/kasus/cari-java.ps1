@@ -1,0 +1,1 @@
+﻿Get-ChildItem -Path E:\firman\*java -Recurse -Force

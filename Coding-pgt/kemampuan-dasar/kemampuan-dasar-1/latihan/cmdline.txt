@@ -1,0 +1,22 @@
+20 comandd windows
+
+1.echo : digunakan menampilkan teks 
+2.mkdir/md :membuat directory/folder
+3.cls: digunakan untuk clean screen
+4.ren/rename :digunakan untuk rename file
+5.del: untuk hapus file
+6.cd :Untuk menampilkan direktori yang sedang dibuka
+7.rmdir :menghapus direktory/folder
+8.cd ..  :pindah direktory diatasny/keluar dari folder
+9.date :menujukan tgl hari ini
+10.dir: menunjukan lokasi direktory saat ini
+11.tzutil :(time zone id) menunjukan zona waktu saat ini
+12.color: mengganti warna tulisan
+13.whoami: untuk mengetahui username komp pribadi
+14.netstat :memunculkan semua daftar port yang saat itu terbuka dan alamat IP yang terkait
+15.ipconfig :melihat konfigurasi ip addrress komp
+16.Systeminfo: menampilkan detail info komp
+17.type digunakan untuk membaca dokumen teks [type latihan.txt]
+18.copy :untuk menyalin file[copy latihan.txt c:\p]
+19.notepad: untuk membuka notepad
+20.hostname: Untuk melihat hostname atau nama user di PC 
